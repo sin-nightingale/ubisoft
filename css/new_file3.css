@@ -1,0 +1,194 @@
+* {
+       	margin: 0;
+       	padding: 0;
+       }
+
+       .logo {
+       	width: 247px;
+       	height: 50px;
+       	margin-right: 150px;
+       	/* background-position: left; */
+       	margin-top: -35px;
+       }
+
+       .contents {
+       	height: 60px;
+       	width: 1423px;
+       	background-color: black;
+
+       }
+
+       .text {
+       	font-size: 30px;
+       	font-family: "微软雅黑";
+       	text-align: center;
+       	text-decoration: none;
+       	color: azure;
+       }
+
+       .title {
+       	font-size: 24px;
+       	font-weight: 500;
+       	font-family: "agency fb";
+       	margin: 0;
+       	auto;
+
+       }
+
+       .one {
+       	width: 1423px;
+       	height: 50px;
+       	margin: 0;
+       	auto;
+       	float: left;
+       	border: #000000;
+       }
+
+       .yubi {
+       	width: 100%;
+       	height: 1000px;
+       	background-image: url(thecrew_desktop.jpg);
+       	background-repeat: no-repeat;
+       }
+
+       .three {
+       	margin: 10px 10px 20px 900px;
+       }
+
+       .four {
+       	width: 1423px;
+       	height: 200px;
+       	background-image: url(../img/WPS图片-修改尺寸1.jpg);
+       	font-size: inherit;
+       	font-weight: 100;
+       	font-family: "agency fb";
+       	color: #000000;
+       }
+
+       .seven {
+       	width: 1423px;
+       	height: 538.3px;
+       }
+
+       .eight {
+       	width: 265px;
+       	height: 438px;
+       	margin-top: 50px;
+       	margin-left: 50px;
+       	background-image: url(../img/crew_box.jpg);
+       	float: left;
+       }
+
+       .nine {
+       	color: #02b1f4;
+       	font-size: 33.6px;
+       	font-style: italic;
+       	line-height: 54.8px;
+       	margin-top: 50px;
+       	margin-left: 50px;
+       	float: left;
+       	width: 1050px;
+       	height: 100px;
+       }
+
+       * .five {
+       	width: 1423px;
+       	height: 30px;
+       	background-image: url(../img/WPS图片-修改尺寸2.jpg);
+       	color: #F0FFFF;
+       }
+
+       .six {
+       	width: 1423px;
+       	height: 500px;
+       	background-color: aliceblue;
+
+
+       }
+
+       */
+       }
+
+       .ten {
+       	width: 500px;
+       	height: 400px;
+       	float: left;
+       }
+
+       .guanyu {
+       	margin: 40px 190px 15px;
+       	font-size: 14px;
+       	line-height: 1.2;
+       	font-family: "Microsoft YaHei";
+       	color: #454545;
+       	font-weight: bold;
+       }
+
+
+       #two {
+       	font-size: 14px;
+       	line-height: 1.2;
+       	font-family: "Microsoft YaHei";
+       	color: #454545;
+       	width: 1140px;
+       	height: 33.6px;
+       	margin: 0 auto;
+       	margin-top: 40px;
+       }
+
+       #three {
+       	font-size: 14px;
+       	line-height: 1.2;
+       	font-family: "Microsoft YaHei";
+       	width: 1140px;
+       	height: 24.6px;
+       	color: #454545;
+       	margin-left: 190px;
+       }
+
+       .foot {
+       	background-color: #000;
+       	width: 100%;
+       	height: 417px;
+       	color: #999999;
+       	text-align: center;
+       	padding: 30px 0;
+       }
+
+       .biankuang {
+       	padding: 40px 0 20px;
+       	border-bottom: solid 1px #404040;
+       	border-top: solid 1px #404040;
+       	background-color: #000;
+       	margin: 0 30px;
+       }
+
+       .tubiao {
+       	text-align: center;
+       	font-size: 0;
+       	padding-left: 0;
+       	list-style: none;
+       	margin-top: 0;
+       	margin-bottom: 25px;
+       	margin-left: -150px;
+       }
+
+       #tubiao-1 {
+       	color: #9d9d9d;
+       	text-decoration: none;
+       	line-height: 50px;
+       	text-align: left;
+}
+#foot-wenzi{
+	    text-decoration: none;
+		font-family: "Microsoft YaHei";
+		margin-top: 10px;
+		text-align: center;
+		font-size: 14px;
+		line-height: 1.42857143;
+}
+.wan{
+	width:50px ;
+	height: 50px;
+
+}

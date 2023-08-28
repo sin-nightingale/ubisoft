@@ -1,0 +1,475 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-collapse{
+	background-color: black;
+	width: 100%;
+	height: 80px;
+	border-radius: 10px;
+}
+
+.navbar-logo{
+	background-color: black;
+	width: 200px;
+	height: 80px;
+	float: left;
+	cursor: pointer;
+}
+.navbar-infobord{
+	width: 100%px;
+	height: 80px;
+	background-color: black;
+	margin-left: 200px;
+}
+
+.navbar-logo-img{
+	background-image: url(../img/logo.png);
+	background-size: 200px 40px;
+	width: 247px;
+	height: 80px;
+	position: absolute;
+	background-repeat: no-repeat;
+	margin: 20px auto;
+}
+.navbar-info{
+	padding: 30px 15px;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	text-align: center;
+	width: 70px;
+	height: 20px;
+	float: left;
+	cursor: pointer;
+}
+#navbar-info-one{
+	background-color: #4C4C4C;
+		color: #ffffff;
+}
+#navbar-info-two{
+	background-color: black;
+		color: #9D9D9D;
+}
+#navbar-info-three{
+	background-color: black;
+		color: #9D9D9D;
+}
+#navbar-info-four{
+	background-color: black;
+		color: #9D9D9D;
+}
+.uplay{
+	background-color: #2D5789;
+	padding: 30px 15px;
+	font-size: 18px;
+	color: #ffffff;
+	font-family: "微软雅黑";
+	text-align: center;
+	width: 90px;
+	height: 20px;
+	float: right;
+	cursor: pointer;
+}
+
+.item{
+	background-image: url(../img/alienware_d12_pc.jpg);
+	background-size: 100%;
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+}
+
+.ptype{
+	color: #8CDDA3;
+	font-family: "微软雅黑";
+	width: 100%;
+	height: 24.89px;
+	padding-top: 10px;
+	padding-left: 85%;
+}
+.gamebreif{
+	width: 832px;
+	height: 240px;
+	margin-top: 370px;
+}
+.gamebreif-bg{
+	height: 100px;
+	width: 770px;
+	transform: skew(15deg,0);
+	padding: 20px;
+	padding-left: 75px;
+}
+.gamebreif-wrap{
+	height: 100px;
+	width: 770px;
+}
+.bh{
+	font-style: normal;
+	transform: skew(-15deg,0);
+	font-size: 50px;
+	font-weight: bold;
+	line-height: 1.5;
+	color: #FFFFFF;
+	-webkit-font-smoothing: antialiased;
+	text-shadow: 0 4px 18px rgb(0 0 0 /60%);
+}
+.bh2{
+	transform: skew(-15deg,0);
+	font-size: 20px;
+	color: #C4C4C4;
+}
+.bottom1{
+	height: 50px;
+	width: 180px;
+	padding-top: 10px;
+	padding-left: 125px;
+	cursor: pointer;
+}
+.bottom2{
+	text-align: center;
+	margin 0 auto;
+	padding-top: 10px;
+	height: 30px;
+	width: 140px;
+	color: #FFFFFF;
+	font-size: 16px;
+	border: 2px solid #FFFFFF;
+	border-radius: 60px;
+}
+.allgameview{
+	width: 100%;
+	height: 460px;
+	padding-bottom: 30px;
+	background-color: #DFDFDF;
+}
+.ubi-title{
+	width: 100%;
+	height: 120px;
+	position: relative;
+}
+.ubi-title2{
+	color: #333;
+	font-size: 30px;
+	font-weight: bold;
+	padding-left: 730px;
+	padding-top: 40px;
+	margin-bottom: 5px;
+	text-decoration: underline;
+}
+#ubi-titleone{
+
+}
+#ubi-titletwo{
+}
+.thumb{
+	width: 100%;
+	height: 270px;
+}
+.thumbnail{
+	width: 271.8px;
+	height: 226px;
+	margin: 4px 8px;
+	padding: 8px;
+	background-color: #FFFFFF;
+	float: left;
+	cursor: pointer;
+}
+
+.picturecol1{
+	height: 68.31%;
+	width: 271px;
+	background-size: 100%;
+}
+#picturecol1one{
+	background-image: url(../img/eoc_thumb.jpg);
+}
+#picturecol1two{
+	background-image: url(../img/hsw_thumb.jpg);
+}
+#picturecol1three{
+	background-image: url(../img/mmh7_thumb.jpg);
+}
+#picturecol1four{
+	background-image: url(../img/col_thumb.jpg);
+}
+#picturecol1five{
+	background-image: url(../img/trfu_thumb.jpg);
+}
+.caption{
+	width: 255px;
+	height: 25%;
+	padding: 8px;
+}
+.captiontype1{
+	color: #333;
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+.captiontype2{
+	color: #666;
+	font-size: 12px;
+}
+.picturecol2{
+	width: 255px;
+	height: 27px;
+	background-repeat: no-repeat;
+}
+#picturecol2one{
+	background-image: url(../img/apple&aniod.png);
+		background-size: 15%;
+}
+#picturecol2two{
+	background-image: url(../img/apple&aniod.png);
+		background-size: 15%;
+}
+#picturecol2three{
+	background-image: url(../img/windows.png);
+		background-size: 7.5%;
+}
+#picturecol2four{
+	background-image: url(../img/windows&xboxs.png);
+		background-size: 15%;
+}
+#picturecol2five{
+	background-image: url(../img/windows&xboxs&playstation.png);
+		background-size: 22.5%;
+}
+
+.promotionview{
+	width: 100%;
+	height: 425px;
+	background-color: #FFFFFF;
+	margin-top: 90px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.item-active{
+	width: 100%;
+	height: 400px;
+	padding-left: 15px;
+	padding-right: 15px;
+	cursor: pointer;
+}
+.item-active-left{
+	width: 48.5%;
+	height: 375px;
+	background-image: url(../img/0801.jpg);
+	background-size: 100%;
+	float: left;
+	margin-right: 15px;
+}
+.item-active-right{
+	width: 48.5%;
+	height: 375px;
+	background-image: url(../img/0201.jpg);
+	background-size: 100%;
+	float: left
+}
+
+.newsview{
+	width: 100%;
+	height: 1050px;
+	background-color: #FFFFFF;
+	padding-bottom: 30px;
+}
+
+.newswrap{
+	width: 70%;
+	height: 950px;
+	margin: 18px 246px;
+	background-color: #FFFFFF;
+}
+
+.index-new-bg12{
+	width: 100%;
+	height: 172px;
+	margin-bottom: 36px;
+	background-color: #FFFFFF;
+}
+
+.index-new-bg1{
+	width: 50%;
+	height: 171px;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+.index-new-bg2{
+	width: 50%;
+	height: 171px;
+	background-color: #FFFFFF;
+	float: right;
+}
+
+.index-new-img{
+	width: 50%;
+	height: 170px;
+	float: left;
+	background-repeat: no-repeat;
+}
+#index-new-imgone{
+	background-image: url(../img/jiangrui.png);
+	background-size: 100%;
+}
+#index-new-imgtwo{
+	background-image: url(../img/yangjing.png);
+	background-size: 100%;
+}
+#index-new-imgthree{
+	background-image: url(../img/weihengming.jpg);
+	background-size: 100%;
+}
+#index-new-imgfour{
+	background-image: url(../img/gaoxingxing.png);
+	background-size: 100%;
+}
+#index-new-imgfive{
+	background-image: url(../img/likai.png);
+	background-size: 100%;
+}
+#index-new-imgsix{
+	background-image: url(../img/mayanhe.jpg);
+	background-size: 100%;
+}
+#index-new-imgseven{
+	background-image: url(../img/majunjie.jpg);
+	background-size: 100%;
+}
+#index-new-imgeight{
+	background-image: url(../img/genqingsong.jpg);
+	background-size: 100%;
+}
+
+
+.index-news{
+	width: 46%;
+	height: 162px;
+	float: right;
+	background-color: #FFFFFF;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.index-news-A{
+	width: 100%;
+	height: 38px;
+	color: #000000;
+	font-size: 18px;
+	line-height: 1.2;
+	font-weight: bold;
+	margin-bottom: 3px;
+	cursor: pointer;
+	text-decoration: none;
+}
+.index-news-B{
+	width: 100%;
+	height: 26px;
+	color: #666;
+	line-height: 30px;
+	font-size: 14px;
+	font-style: italic;
+}
+.index-news-C{
+	width: 100%;
+	height: 79px;
+	color: #666;
+	line-height: 18px;
+	font-size: 14px;
+	margin-bottom: 10px;
+	background: #FFFFFF;
+	background: linear-gradient(180deg,hsla(0,0%,100%,0),#FFFFFF);
+}
+
+.ubimore{
+	width: 160px;
+	height: 43px;
+	padding: 1px 6px;
+	margin-top: 25px;
+	margin-left: 442px;
+	margin-right: 442px;
+	display: block;
+	background-color: #ffa400;
+	color: #FFFFFF;
+	font-size: 18px;
+	margin: 0 auto;
+	border-radius: 25px;
+	cursor: pointer;
+}
+.ubimore2{
+	width: 130px;
+	height: 43px;
+	margin 0 auto;
+	padding-left: 65px;
+	padding-top: 8px;
+}
+
+.foot{
+          background-color: #000;
+          width: 100%;
+		  height: 417px;
+          color: #999999;
+          text-align: center;
+          padding: 30px 0;
+      }
+.biankuang{
+	padding: 40px 0 20px;
+	border-bottom: solid 1px #404040;
+	border-top: solid 1px #404040;
+	background-color: #000;
+	margin: 0 30px;
+}
+.tubiao{
+	text-align: center;
+	font-size: 0;
+	padding-left: 0;
+	list-style: none;
+	    margin-top: 0;
+	    margin-bottom: 25px;
+		margin-left: -150px;
+}
+#tubiao-1{
+	color: #9d9d9d;
+	text-decoration: none;
+	    line-height: 50px;
+	    text-align: left;
+}
+#chicun{
+	width: 50px;
+	height: auto;
+	z-index: 9;
+	margin-left: 100px;
+	position: relative;
+	vertical-align: middle;
+}	
+#foot-wenzi{
+	    text-decoration: none;
+		font-family: "Microsoft YaHei";
+		margin-top: 10px;
+		text-align: center;
+		font-size: 14px;
+		line-height: 1.42857143;
+}
+#lianjie-2{
+	text-decoration: none;
+	color: #9d9d9d;
+	cursor: pointer;	
+}
+.photo-5{
+	vertical-align: middle;
+	margin-top: 10px;
+}	
+.photo-6{
+	margin: 0 auto;
+	width: 150px;
+	height: 75px;
+}
+.photo-6 img{
+	width:150px;
+	height: 75px;
+}
+.photo-7 img{
+	width:235px;
+	height: 25spx;
+	margin-top: 10px;
+}
